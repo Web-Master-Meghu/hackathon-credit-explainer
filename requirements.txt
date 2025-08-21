@@ -1,0 +1,8 @@
+pandas
+yfinance
+requests
+scikit-learn
+shap
+streamlit
+matplotlib
+fredapi
